@@ -1,0 +1,5 @@
+D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/INSTALL.dir
+D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/ALL_BUILD.dir
+D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/ZERO_CHECK.dir
+D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/src/CMakeFiles/gradientSolver.dir
+D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/src/CMakeFiles/INSTALL.dir

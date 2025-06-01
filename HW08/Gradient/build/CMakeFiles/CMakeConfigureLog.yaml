@@ -18,15 +18,15 @@ events:
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
       Compiler:  
-      Build flags: /DWIN32;/D_WINDOWS;/W3
+      Build flags: 
       Id flags:  
       
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-      鐢熸垚鍚姩鏃堕棿涓?2025/5/29 15:53:21銆?
+      鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:37銆?
       
-      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
         姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
         宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
@@ -39,7 +39,7 @@ events:
         CMakeCCompilerId.c
       Link:
         D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> D:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -47,13 +47,13 @@ events:
       FinalizeBuildStatus:
         姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
         姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
       宸叉垚鍔熺敓鎴愩€?
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:01.08
+      宸茬敤鏃堕棿 00:00:01.26
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -61,7 +61,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.exe
+        D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "message-v1"
@@ -73,15 +73,15 @@ events:
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
       Compiler:  
-      Build flags: /DWIN32;/D_WINDOWS;/W3;/GR;/EHsc
+      Build flags: 
       Id flags:  
       
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-      鐢熸垚鍚姩鏃堕棿涓?2025/5/29 15:53:22銆?
+      鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:39銆?
       
-      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
         姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
         宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
@@ -94,7 +94,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> D:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -102,13 +102,13 @@ events:
       FinalizeBuildStatus:
         姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
         姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
       宸叉垚鍔熺敓鎴愩€?
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:01.20
+      宸茬敤鏃堕棿 00:00:00.99
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -116,7 +116,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.exe
+        D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "try_compile-v1"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/Course/02ComputerGraph (\u8ba1\u7b97\u673a\u56fe\u5f62\u5b66)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-wuxxby"
-      binary: "D:/Course/02ComputerGraph (\u8ba1\u7b97\u673a\u56fe\u5f62\u5b66)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-wuxxby"
+      source: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-3iur7k"
+      binary: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-3iur7k"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       VCPKG_APPLOCAL_DEPS: "ON"
@@ -138,33 +138,33 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-wuxxby'
+        Change Dir: 'D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-3iur7k'
         
-        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b6bad.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0a13a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-        鐢熸垚鍚姩鏃堕棿涓?2025/5/29 15:53:24銆?
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:40銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wuxxby\\cmTC_b6bad.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iur7k\\cmTC_0a13a.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_b6bad.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_0a13a.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wuxxby\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_b6bad.dir\\Debug\\cmTC_b6bad.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iur7k\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_0a13a.dir\\Debug\\cmTC_0a13a.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_b6bad.dir\\Debug\\cmTC_b6bad.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_b6bad.dir\\Debug\\cmTC_b6bad.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_0a13a.dir\\Debug\\cmTC_0a13a.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_0a13a.dir\\Debug\\cmTC_0a13a.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b6bad.dir\\Debug\\\\" /Fd"cmTC_b6bad.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0a13a.dir\\Debug\\\\" /Fd"cmTC_0a13a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b6bad.dir\\Debug\\\\" /Fd"cmTC_b6bad.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0a13a.dir\\Debug\\\\" /Fd"cmTC_0a13a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wuxxby\\Debug\\cmTC_b6bad.exe" /INCREMENTAL /ILK:"cmTC_b6bad.dir\\Debug\\cmTC_b6bad.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Course/02ComputerGraph (璁＄畻鏈哄浘褰㈠)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-wuxxby/Debug/cmTC_b6bad.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Course/02ComputerGraph (璁＄畻鏈哄浘褰㈠)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-wuxxby/Debug/cmTC_b6bad.lib" /MACHINE:X64  /machine:x64 cmTC_b6bad.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_b6bad.vcxproj -> D:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wuxxby\\Debug\\cmTC_b6bad.exe
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iur7k\\Debug\\cmTC_0a13a.exe" /INCREMENTAL /ILK:"cmTC_0a13a.dir\\Debug\\cmTC_0a13a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-3iur7k/Debug/cmTC_0a13a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-3iur7k/Debug/cmTC_0a13a.lib" /MACHINE:X64  /machine:x64 cmTC_0a13a.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_0a13a.vcxproj -> D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iur7k\\Debug\\cmTC_0a13a.exe
         PostBuildEvent:
           setlocal
-          C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/Course/02ComputerGraph (璁＄畻鏈哄浘褰㈠)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-wuxxby/Debug/cmTC_b6bad.exe" -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/debug/bin -OutVariable out
+          C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-3iur7k/Debug/cmTC_0a13a.exe -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/debug/bin -OutVariable out
           if %errorlevel% neq 0 goto :cmEnd
           :cmEnd
           endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -174,15 +174,15 @@ events:
           if %errorlevel% neq 0 goto :VCEnd
           :VCEnd
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_b6bad.dir\\Debug\\cmTC_b6bad.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_b6bad.dir\\Debug\\cmTC_b6bad.tlog\\cmTC_b6bad.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wuxxby\\cmTC_b6bad.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_0a13a.dir\\Debug\\cmTC_0a13a.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_0a13a.dir\\Debug\\cmTC_0a13a.tlog\\cmTC_0a13a.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iur7k\\cmTC_0a13a.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:01.61
+        宸茬敤鏃堕棿 00:00:01.47
         
       exitCode: 0
   -
@@ -194,8 +194,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/Course/02ComputerGraph (\u8ba1\u7b97\u673a\u56fe\u5f62\u5b66)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-l8uy71"
-      binary: "D:/Course/02ComputerGraph (\u8ba1\u7b97\u673a\u56fe\u5f62\u5b66)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-l8uy71"
+      source: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-z39ght"
+      binary: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-z39ght"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       VCPKG_APPLOCAL_DEPS: "ON"
@@ -205,33 +205,33 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-l8uy71'
+        Change Dir: 'D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-z39ght'
         
-        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_19ac5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_aceb3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
-        鐢熸垚鍚姩鏃堕棿涓?2025/5/29 15:53:26銆?
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:42銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8uy71\\cmTC_19ac5.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z39ght\\cmTC_aceb3.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_19ac5.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_aceb3.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8uy71\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_19ac5.dir\\Debug\\cmTC_19ac5.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z39ght\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_aceb3.dir\\Debug\\cmTC_aceb3.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_19ac5.dir\\Debug\\cmTC_19ac5.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_19ac5.dir\\Debug\\cmTC_19ac5.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_aceb3.dir\\Debug\\cmTC_aceb3.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_aceb3.dir\\Debug\\cmTC_aceb3.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_19ac5.dir\\Debug\\\\" /Fd"cmTC_19ac5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_aceb3.dir\\Debug\\\\" /Fd"cmTC_aceb3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_19ac5.dir\\Debug\\\\" /Fd"cmTC_19ac5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_aceb3.dir\\Debug\\\\" /Fd"cmTC_aceb3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Softwares\\07CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8uy71\\Debug\\cmTC_19ac5.exe" /INCREMENTAL /ILK:"cmTC_19ac5.dir\\Debug\\cmTC_19ac5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Course/02ComputerGraph (璁＄畻鏈哄浘褰㈠)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-l8uy71/Debug/cmTC_19ac5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Course/02ComputerGraph (璁＄畻鏈哄浘褰㈠)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-l8uy71/Debug/cmTC_19ac5.lib" /MACHINE:X64  /machine:x64 cmTC_19ac5.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_19ac5.vcxproj -> D:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8uy71\\Debug\\cmTC_19ac5.exe
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z39ght\\Debug\\cmTC_aceb3.exe" /INCREMENTAL /ILK:"cmTC_aceb3.dir\\Debug\\cmTC_aceb3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-z39ght/Debug/cmTC_aceb3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-z39ght/Debug/cmTC_aceb3.lib" /MACHINE:X64  /machine:x64 cmTC_aceb3.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_aceb3.vcxproj -> D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z39ght\\Debug\\cmTC_aceb3.exe
         PostBuildEvent:
           setlocal
-          C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/Course/02ComputerGraph (璁＄畻鏈哄浘褰㈠)/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-l8uy71/Debug/cmTC_19ac5.exe" -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/debug/bin -OutVariable out
+          C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-z39ght/Debug/cmTC_aceb3.exe -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/debug/bin -OutVariable out
           if %errorlevel% neq 0 goto :cmEnd
           :cmEnd
           endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -241,15 +241,194 @@ events:
           if %errorlevel% neq 0 goto :VCEnd
           :VCEnd
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_19ac5.dir\\Debug\\cmTC_19ac5.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_19ac5.dir\\Debug\\cmTC_19ac5.tlog\\cmTC_19ac5.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph (璁＄畻鏈哄浘褰㈠)\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8uy71\\cmTC_19ac5.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_aceb3.dir\\Debug\\cmTC_aceb3.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_aceb3.dir\\Debug\\cmTC_aceb3.tlog\\cmTC_aceb3.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z39ght\\cmTC_aceb3.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:01.56
+        宸茬敤鏃堕棿 00:00:01.48
         
       exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)"
+      - "CMakeLists.txt:153 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-h19w7y"
+      binary: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-h19w7y"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/Softwares/vcpkg/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-h19w7y'
+        
+        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_42ebd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:44銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\cmTC_42ebd.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_42ebd.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_42ebd.dir\\Debug\\cmTC_42ebd.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_42ebd.dir\\Debug\\cmTC_42ebd.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_42ebd.dir\\Debug\\cmTC_42ebd.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42ebd.dir\\Debug\\\\" /Fd"cmTC_42ebd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\src.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42ebd.dir\\Debug\\\\" /Fd"cmTC_42ebd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\src.c"
+          src.c
+        D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\src.c(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\cmTC_42ebd.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\cmTC_42ebd.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\cmTC_42ebd.vcxproj鈥?榛樿鐩爣) (1) ->
+        (ClCompile 鐩爣) -> 
+          D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\src.c(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h19w7y\\cmTC_42ebd.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.50
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)"
+      - "CMakeLists.txt:153 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-rzd7nt"
+      binary: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-rzd7nt"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/Softwares/vcpkg/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-rzd7nt'
+        
+        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_90192.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:44銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\cmTC_90192.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_90192.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_90192.dir\\Debug\\cmTC_90192.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_90192.dir\\Debug\\cmTC_90192.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_90192.dir\\Debug\\cmTC_90192.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90192.dir\\Debug\\\\" /Fd"cmTC_90192.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\CheckFunctionExists.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90192.dir\\Debug\\\\" /Fd"cmTC_90192.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\Debug\\cmTC_90192.exe" /INCREMENTAL /ILK:"cmTC_90192.dir\\Debug\\cmTC_90192.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-rzd7nt/Debug/cmTC_90192.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-rzd7nt/Debug/cmTC_90192.lib" /MACHINE:X64  /machine:x64 cmTC_90192.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\cmTC_90192.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\cmTC_90192.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\cmTC_90192.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rzd7nt\\cmTC_90192.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.75
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/Softwares/07CMake/share/cmake-3.28/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)"
+      - "CMakeLists.txt:153 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-5z1mzk"
+      binary: "D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-5z1mzk"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "D:/Softwares/vcpkg/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-5z1mzk'
+        
+        Run Build Command(s): D:/download/VisualStudioDownload/IDE/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_878ee.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.12.12+1cce77968
+        鐢熸垚鍚姩鏃堕棿涓?2025/6/1 14:52:46銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\cmTC_878ee.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_878ee.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_878ee.dir\\Debug\\cmTC_878ee.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_878ee.dir\\Debug\\cmTC_878ee.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_878ee.dir\\Debug\\cmTC_878ee.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_878ee.dir\\Debug\\\\" /Fd"cmTC_878ee.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\CheckFunctionExists.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.42.34435 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_878ee.dir\\Debug\\\\" /Fd"cmTC_878ee.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\download\\VisualStudioDownload\\IDE\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\Debug\\cmTC_878ee.exe" /INCREMENTAL /ILK:"cmTC_878ee.dir\\Debug\\cmTC_878ee.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-5z1mzk/Debug/cmTC_878ee.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/CMakeScratch/TryCompile-5z1mzk/Debug/cmTC_878ee.lib" /MACHINE:X64  /machine:x64 cmTC_878ee.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\cmTC_878ee.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\cmTC_878ee.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\cmTC_878ee.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[D:\\Course\\02ComputerGraph\\GAMES101\\HW08\\Gradient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5z1mzk\\cmTC_878ee.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.75
+        
+      exitCode: 1
 ...

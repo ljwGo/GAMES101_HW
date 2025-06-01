@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\rope.cpp">
+    <ClCompile Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\rope.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\application.cpp">
+    <ClCompile Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\main.cpp">
+    <ClCompile Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\CMakeLists.txt" />
+    <CustomBuild Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{7A236D30-E1B2-34DC-A344-43CDCAB52047}</UniqueIdentifier>
+      <UniqueIdentifier>{405D390D-387D-336A-B9B9-710CCBBA7DE3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

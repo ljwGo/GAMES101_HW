@@ -1,9 +1,9 @@
 # CMake generation dependency list for this directory.
-D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/CMakeLists.txt
-D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake
-D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
-D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
-D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeSystem.cmake
+D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/CMakeLists.txt
+D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+D:/Course/02ComputerGraph/GAMES101/HW08/Gradient/build/CMakeFiles/3.28.1/CMakeSystem.cmake
 D:/Softwares/07CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in
 D:/Softwares/07CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c
 D:/Softwares/07CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake

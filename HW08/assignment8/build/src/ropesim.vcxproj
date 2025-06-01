@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{51340569-7594-3A4B-8356-A57B4B5588E0}</ProjectGuid>
+    <ProjectGuid>{CA4EA3F4-18EE-3794-8386-AD070BF832B4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <VcpkgEnabled>false</VcpkgEnabled>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
@@ -60,25 +60,25 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ropesim.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ropesim</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ropesim.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ropesim</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\MinSizeRel\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\MinSizeRel\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">ropesim.dir\MinSizeRel\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">ropesim</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\RelWithDebInfo\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\RelWithDebInfo\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">ropesim.dir\RelWithDebInfo\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">ropesim</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
@@ -131,7 +131,7 @@
       <Message>
       </Message>
       <Command>setlocal
-C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/Debug/ropesim.exe" -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/debug/bin -OutVariable out
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/Debug/ropesim.exe -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/debug/bin -OutVariable out
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -146,8 +146,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/Debug/ropesim.lib</ImportLibrary>
-      <ProgramDataBaseFile>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/Debug/ropesim.pdb</ProgramDataBaseFile>
+      <ImportLibrary>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/Debug/ropesim.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/Debug/ropesim.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -188,7 +188,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Message>
       </Message>
       <Command>setlocal
-C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/Release/ropesim.exe" -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/bin -OutVariable out
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/Release/ropesim.exe -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/bin -OutVariable out
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -203,8 +203,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/Release/ropesim.lib</ImportLibrary>
-      <ProgramDataBaseFile>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/Release/ropesim.pdb</ProgramDataBaseFile>
+      <ImportLibrary>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/Release/ropesim.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/Release/ropesim.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -245,7 +245,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Message>
       </Message>
       <Command>setlocal
-C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/MinSizeRel/ropesim.exe" -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/bin -OutVariable out
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/MinSizeRel/ropesim.exe -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/bin -OutVariable out
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -260,8 +260,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/MinSizeRel/ropesim.lib</ImportLibrary>
-      <ProgramDataBaseFile>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/MinSizeRel/ropesim.pdb</ProgramDataBaseFile>
+      <ImportLibrary>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/MinSizeRel/ropesim.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/MinSizeRel/ropesim.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -301,7 +301,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Message>
       </Message>
       <Command>setlocal
-C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/RelWithDebInfo/ropesim.exe" -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/bin -OutVariable out
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file D:/Softwares/vcpkg/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/RelWithDebInfo/ropesim.exe -installedDir D:/Softwares/vcpkg/vcpkg/installed/x64-windows/bin -OutVariable out
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -316,8 +316,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/RelWithDebInfo/ropesim.lib</ImportLibrary>
-      <ProgramDataBaseFile>D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/RelWithDebInfo/ropesim.pdb</ProgramDataBaseFile>
+      <ImportLibrary>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/RelWithDebInfo/ropesim.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/RelWithDebInfo/ropesim.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -325,11 +325,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\CMakeLists.txt">
+    <CustomBuild Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-D:\Softwares\07CMake\bin\cmake.exe "-SD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8" "-BD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build" --check-stamp-file "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp"
+D:\Softwares\07CMake\bin\cmake.exe -SD:/Course/02ComputerGraph/GAMES101/HW08/assignment8 -BD:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build --check-stamp-file D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -338,11 +338,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-D:\Softwares\07CMake\bin\cmake.exe "-SD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8" "-BD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build" --check-stamp-file "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp"
+D:\Softwares\07CMake\bin\cmake.exe -SD:/Course/02ComputerGraph/GAMES101/HW08/assignment8 -BD:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build --check-stamp-file D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -351,11 +351,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-D:\Softwares\07CMake\bin\cmake.exe "-SD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8" "-BD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build" --check-stamp-file "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp"
+D:\Softwares\07CMake\bin\cmake.exe -SD:/Course/02ComputerGraph/GAMES101/HW08/assignment8 -BD:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build --check-stamp-file D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -364,11 +364,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-D:\Softwares\07CMake\bin\cmake.exe "-SD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8" "-BD:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build" --check-stamp-file "D:/Course/02ComputerGraph (计算机图形学)/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp"
+D:\Softwares\07CMake\bin\cmake.exe -SD:/Course/02ComputerGraph/GAMES101/HW08/assignment8 -BD:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build --check-stamp-file D:/Course/02ComputerGraph/GAMES101/HW08/assignment8/build/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -377,18 +377,18 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\rope.cpp" />
-    <ClCompile Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\application.cpp" />
-    <ClCompile Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\src\main.cpp" />
+    <ClCompile Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\rope.cpp" />
+    <ClCompile Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\application.cpp" />
+    <ClCompile Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\Course\02ComputerGraph (计算机图形学)\GAMES101\HW08\assignment8\build\ZERO_CHECK.vcxproj">
-      <Project>{B28D5E0E-1F97-368C-9FEC-1C90CCA0A238}</Project>
+    <ProjectReference Include="D:\Course\02ComputerGraph\GAMES101\HW08\assignment8\build\ZERO_CHECK.vcxproj">
+      <Project>{DEDC881C-74C1-31B6-AACD-F23D032F03F4}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
